@@ -67,7 +67,7 @@ public class isPelindromLL {
         list.addLast(2);
         list.addLast(3);
         list.addLast(2);
-        list.addLast(0);
+        list.addLast(1);
         System.out.println(list.isPelindrom());
     }
      
